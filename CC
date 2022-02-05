@@ -6,3 +6,11 @@ public void main
   3
   
 }
+
+
+
+
+public void addedmethod()
+{
+  Hello second world!
+}
