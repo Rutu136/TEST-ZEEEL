@@ -8,7 +8,7 @@ pipeline
         {
             steps 
             {
-                echo 'Build Application'
+                echo 'Build Application Git'
             }
         }
         
@@ -16,7 +16,7 @@ pipeline
         {
             steps 
             {
-                echo 'Reviewing code of the application'
+                echo 'Reviewing code of the application Git'
             }
         }
         
@@ -24,7 +24,7 @@ pipeline
         {
             steps 
             {
-                echo 'Regression Test'
+                echo 'Regression Test Git'
             }
         }
     }
